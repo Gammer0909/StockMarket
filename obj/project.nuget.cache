@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lv/Y0O+3E5RhI8vjeO6G3w8FIBaZIxbiUGB/brbuE+eTUbPCnQM1dvCB+aj+dhVx6HNUZTcx093mWxNJyIvyCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elija\\OneDrive\\Desktop\\Coding Projects\\StockMarket\\StockMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elija\\.nuget\\packages\\google.apis\\1.60.0\\google.apis.1.60.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\google.apis.auth\\1.60.0\\google.apis.auth.1.60.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\google.apis.core\\1.60.0\\google.apis.core.1.60.0.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\google.apis.sheets.v4\\1.60.0.2979\\google.apis.sheets.v4.1.60.0.2979.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\mstest.testframework\\3.0.4\\mstest.testframework.3.0.4.nupkg.sha512",
+    "C:\\Users\\elija\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
