@@ -52,6 +52,10 @@
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[3.0.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
             }
           },
           "imports": [

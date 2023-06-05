@@ -1,17 +1,19 @@
 ## Stock Market Simulator
 
-Stock Market Simulator is a little game I made with C#.
-It's a very simple game where you can buy and sell stocks, and you can see how much money you have, and how much money you've made.
-I plan on adding more features to the game, like 
+Stock Market Simulator is a simple game where you can buy and sell stocks, and see how much money you have and how much money you've made. The game is written in C#.
 
-1. A backend system connected to Google Sheets (A jank database kinda thing)
-2. A GUI (Sometime in the future)
-3. Connection to an actual stock API instead of just randomly generating prices every turn
+### How to Play
 
-## Installation
+To play the game, simply run the executable file located at `bin\Debug\net7.0\StockMarket.exe`. Once the game is running, you can buy and sell stocks by clicking on the corresponding buttons in the GUI. You can also view your current balance and the current prices of the stocks.
 
-No clue how to install this, I'm not a professional programmer, I just do this for fun. If you know how to compile C# code, then you can probably figure it out.
+### Future Features
 
-I think you can just download the .exe file and run it, but I'm not sure.
+In the future, we plan on adding the following features to the game:
 
-(The .exe is in bin\Debug\net7.0\StockMarket.exe)
+1. A backend system connected to Google Sheets, which will allow you to save your progress and view your stats across multiple devices.
+2. A GUI, which will make it easier to interact with the game and view your stats.
+3. Connection to an actual stock API, which will provide more realistic stock prices and allow you to trade real stocks.
+
+### Installation
+
+To compile and run the code, you will need to have C# installed on your machine. Once you have C# installed, you can download the source code and compile it using your preferred IDE or command line tool.
