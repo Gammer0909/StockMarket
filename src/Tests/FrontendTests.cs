@@ -1,3 +1,9 @@
+using NUnit.Framework;
+using System;
+using System.Collections.Generic;
+using StockMarket;
+using StockMarket.FrontEnd;
+
 namespace Tests;
 
 public class Tests
