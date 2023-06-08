@@ -1,0 +1,15 @@
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\bin\Debug\net7.0\StockMarket.exe
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\bin\Debug\net7.0\StockMarket.deps.json
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\bin\Debug\net7.0\StockMarket.runtimeconfig.json
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\bin\Debug\net7.0\StockMarket.dll
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\bin\Debug\net7.0\StockMarket.pdb
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.csproj.AssemblyReference.cache
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.AssemblyInfoInputs.cache
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.AssemblyInfo.cs
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.dll
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\refint\StockMarket.dll
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.pdb
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\StockMarket.genruntimeconfig.cache
+C:\Users\elija\OneDrive\Desktop\Coding Projects\StockMarket\obj\Debug\net7.0\ref\StockMarket.dll

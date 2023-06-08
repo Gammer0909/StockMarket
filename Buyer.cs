@@ -73,7 +73,7 @@ class Buyer {
 
         foreach(Stock stock in ownedStocks) {
 
-            Console.WriteLine($"Stock: {stock.getStockName()} Price: ");
+            Console.Write($"Stock: {stock.getStockName()} Price: ");
             if (stock.getPrice() < 0) {
 
                 Console.ForegroundColor = ConsoleColor.Red;
