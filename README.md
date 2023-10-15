@@ -4,7 +4,15 @@ The StockMarket Game is a simple game that allows players to buy and sell stocks
 
 ## Getting Started
 
-To get started with the StockMarket Game, simply download the source code and run it in your preferred development environment. The game is written in C# and requires the .NET Framework to be installed on your machine.
+To get started with the StockMarket Game, simply clone this repository 
+
+`git clone https://github.com/Gammer0909/StockMarket.git`
+
+and run it in your preferred development environment. 
+
+`dotnet run`
+
+The game is written in C# and requires the .NET Framework to be installed on your machine.
 
 ## How to Play
 
